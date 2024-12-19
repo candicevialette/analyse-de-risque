@@ -1,6 +1,6 @@
 # 🛡️ **Découverte de l'Analyse de Risques**
 
-![Banner](image/background.png)
+![Banner](Image/background.png)
 
 ## 📜 **Description**
 Ce dépôt contient des ressources dédiées à l'analyse de risques. Cet atelier est conçu pour vous aider à développer des compétences en matière d'identification, d'évaluation et de traitement des risques informatiques.
