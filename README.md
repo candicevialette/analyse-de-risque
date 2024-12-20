@@ -84,7 +84,7 @@ Consultez le dossier `Documents/` pour les guides et exercices pratiques.
 
 ---
 
-## 💁️ **Bonnes Pratiques**
+## 💡 **Bonnes Pratiques**
 
 - **Identifiez clairement les sources de risque** dans vos processus.
 - **Documentez toutes les activités d'analyse de risques**.
