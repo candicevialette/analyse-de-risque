@@ -44,7 +44,7 @@ Consultez le dossier `Documents/` pour les guides et exercices pratiques.
 
 ---
 
-## 📚 **Exercices : Analyse de Risques**
+## **Exercices : Analyse de Risques**
 
 ### 📚 **Exercice 1 : Identification des Risques**
 
